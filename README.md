@@ -2,6 +2,7 @@
 
 # Setup Commands
 git config --global user.name "Your Name": Set the username for commits.
+
 git config --global user.email "your.email@example.com": Set the email for commits.
 git config --global color.ui auto: Enable automatic command line coloring.
 git config --list: List all configuration settings.
