@@ -3,7 +3,7 @@ This guide provides an essential list of Git commands specifically tailored for 
 
 ## Setup Commands
 ```bash
-git config --global user.name "Your Name": Set the username for commits.
+git config --global user.name "Your Name"      # Set the username for commits.
 
 git config --global user.email "your.email@example.com": Set the email for commits.
 
